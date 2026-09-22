@@ -1,4 +1,4 @@
-# 📊 AURATECH ENTERPRISES Sales Performance Dashboard
+# 📊 Analyzer
 
 An interactive Excel dashboard project focused on sales analysis, KPI tracking, and business intelligence visualization using Pivot Tables, Charts, and Slicers.
 
